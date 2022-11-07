@@ -130,9 +130,25 @@ u.subrayado-punteado
     background-color:rgb(148, 209, 57);
     border:none;
     border-radius: 5px;
-    margin: 0px 300px;
+    margin: 0px 0px;
     color:white;
     font-size: large;
    
     
+}
+
+
+.form-control
+{
+    text-align: left;
+}
+
+
+
+
+.card-group
+{
+    margin: 0px 300px;
+    text-align: center;
+   
 }
